@@ -11,7 +11,7 @@
                 <a href="property_list.php?city=Bengaluru">PG in Bangalore</a>
             </div>
             <div class="footer-city">
-                <a href="property_list.php?city=Hyderabad">PG in Hyderabad</a>
+                <a href="property_list.php?city=Hyderabad">PG in Hyderabad </a>
             </div>
         </div>
         <div class="footer-copyright">MADE WITH ❤ BY <a href="https://bluemonkey.7vfail.com/" target="blank" >BLUEMONKEY</a> </div>
