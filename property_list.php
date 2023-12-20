@@ -87,7 +87,7 @@ $interested_users_properties = mysqli_fetch_all($result_3, MYSQLI_ASSOC);
 
         <?php
         foreach ($properties as $property) {
-            $property_images = glob("img/properties/" . $property['id'] . "/*");
+            $property_images = glob("img/properties" . $property['id'] . "/*");
         ?>
             <div class="property-card property-id-<?= $property['id'] ?> row">
                 <div class="image-container col-md-4">
